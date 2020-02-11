@@ -21,6 +21,7 @@ install dependencies
     "react-native-vector-icons": "^6.6.0"
     
 example App.js
+<img src="https://github.com/sjitprogrammer/React-native-MaterialBottomTab/blob/master/Screenshot_1581448614.png" width="300"
     
     import * as React from 'react';
     import { Text, View } from 'react-native';
