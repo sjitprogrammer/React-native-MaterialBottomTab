@@ -1,5 +1,5 @@
 # React-native-MaterialBottomTab
-
+work at 12/2/2020
 
 install dependencies
 
@@ -20,7 +20,7 @@ install dependencies
     "react-native-tab-view": "^2.13.0",
     "react-native-vector-icons": "^6.6.0"
     
-    example App.js
+example App.js
     
     import * as React from 'react';
     import { Text, View } from 'react-native';
